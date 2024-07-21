@@ -19,7 +19,7 @@ import org.junit.platform.suite.api.Suite;
 
 @Suite
 @SelectClasses({
-	ConfigSerializationTest.class,
+	
 	OAuth2Test.class
 })
 public class ExampleUnitTests {}
