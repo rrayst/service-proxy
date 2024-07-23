@@ -80,7 +80,7 @@ public class Constants {
 					"<a href=\"http://predic8.com/\">predic8 GmbH</a>" +
 					". All Rights Reserved. See " +
 					"<a href=\"http://www.membrane-soa.org/api-gateway/\">http://www.membrane-soa.org/api-gateway/</a>" +
-					" for documentation and updates.       ";
+					" for documentation and updates.        ";
 
 	/**
 	 * Used for {@link Request}-to-XML and XML-to-{@link Response} conversions.
